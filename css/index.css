@@ -201,6 +201,11 @@ ul {
   margin: 0 10px;
 }
 
+.items h4 {
+  margin: 20px 20px;
+  text-decoration-color: #0000FF;
+  background-color: black;
+
 footer {
   width: 100%;
   padding: 1em;
@@ -209,5 +214,6 @@ footer {
 footer h3 {
   text-align: center;
 }
+
 
 /*# sourceMappingURL=index.css.map */
