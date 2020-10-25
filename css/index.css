@@ -102,6 +102,11 @@ ul {
   border: solid black 7px;
   border-radius: 7%;
 }
+.img-bayu{
+  //paste your code here
+  border: solid white 5px;
+  border-radius: 5%;
+}
 
 .img-style2 {
   border-radius: 5%;
