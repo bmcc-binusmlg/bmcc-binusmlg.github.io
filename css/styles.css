@@ -113,6 +113,16 @@ h3 {
   margin: 10px 10px 5px;
 }
 
+.div button{
+  height: 100px;
+  width: 400px;
+  margin: auto;
+  background-color: cyan;
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+}
+
 .items h3 {
   opacity: 90%;
   margin: 5px 10px 5px;
